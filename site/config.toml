@@ -12,7 +12,7 @@ title = "Demo Store"
 author = "Khimyan"
 currency = "MYR"
 description = "Write an awesome description for your new site here. You can edit this\nline in config.yml. It will appear in your document head meta (for\nGoogle search results) and in your RSS feed description.\n"
-snipcart_live_api_key = ""
+snipcart_live_api_key = "YTA0ZTJmODYtNmM0MS00NjBlLWEwYzAtNjNjZGZkMzZiODRkNjM2NTEwNzk3ODQ5MzE1MTUz"
 snipcart_test_api_key = ""
 [taxonomies]
 category = "categories"
