@@ -7,3 +7,14 @@ public/
 site/public/
 dist/
 .tmp/
+renovate.json
+.hugulprc
+.browserslistrc
+.eslintrc.yml
+.patch
+.postcssrc.js
+.stylelintrc.yml
+package-lock.json
+yarn.lock
+node_modules
+.git
