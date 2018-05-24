@@ -1,6 +1,6 @@
 +++
 cartImage = "/uploads/2018/05/16/knife-thumb.jpg"
-date = "2018-05-16T19:09:25+00:00"
+date = "2018-05-16T19:09:25Z"
 image = "/uploads/2018/05/16/knife.jpg"
 price = 40
 shortDescription = "Stay sharp."

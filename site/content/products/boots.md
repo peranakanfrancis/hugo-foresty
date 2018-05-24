@@ -1,6 +1,6 @@
 +++
 cartImage = "/uploads/2018/05/16/boots-thumb.jpg"
-date = "2018-05-16T19:17:35+00:00"
+date = "2018-05-16T19:17:35Z"
 image = "/uploads/2018/05/16/boots.jpg"
 price = 60
 shortDescription = "Lace 'em up and kick it."

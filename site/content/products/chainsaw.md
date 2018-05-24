@@ -1,6 +1,6 @@
 +++
 cartImage = "/uploads/2018/05/15/chainsaw-thumb.jpg"
-date = "2018-05-15T18:42:04+00:00"
+date = "2018-05-15T18:42:04Z"
 image = "/uploads/2018/05/15/chainsaw.jpg"
 price = 100
 shortDescription = "Groovy"
