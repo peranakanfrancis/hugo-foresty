@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "devDependencies": {
     "postcss-markdown": "^0.24.0",
-    "postcss-syntax": "^0.24.0",
+    "postcss-syntax": "^0.26.0",
     "static-scripts": "0.1.3-3"
   },
   "dependencies": {
