@@ -4145,9 +4145,9 @@ hugo-bin@^0.18.0:
     del-cli "1.1.0"
     logalot "2.1.0"
 
-hugo-bin@^0.27.0:
-  version "0.27.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.27.1.tgz#4d7a37ce53c1d2f810bb3bdff151091ebb8b6d36"
+hugo-bin@^0.28.0:
+  version "0.28.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.28.0.tgz#b27a78dae451e2ea219728b919d2f03346c74b6a"
   dependencies:
     bin-wrapper "3.0.2"
     del-cli "1.1.0"
