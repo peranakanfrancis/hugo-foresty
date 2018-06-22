@@ -2,14 +2,14 @@
   "name": "snipcart-hugo",
   "version": "0.1.0",
   "devDependencies": {
-    "postcss-markdown": "^0.24.0",
-    "postcss-syntax": "^0.24.0",
+    "postcss-markdown": "0.24.0",
+    "postcss-syntax": "0.24.0",
     "static-scripts": "0.1.3-3"
   },
   "dependencies": {
-    "bulma": "^0.7.1",
-    "gulp": "^3.9.1",
-    "hugo-bin": "^0.27.0",
+    "bulma": "0.7.1",
+    "gulp": "3.9.1",
+    "hugo-bin": "0.27.1",
     "static-scripts": "0.1.3-3"
   },
   "scripts": {

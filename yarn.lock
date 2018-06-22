@@ -1316,7 +1316,7 @@ builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
 
-bulma@^0.7.1:
+bulma@0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.1.tgz#73c2e3b2930c90cc272029cbd19918b493fca486"
 
@@ -3790,7 +3790,7 @@ gulp-util@^3.0.0, gulp-util@^3.0.1, gulp-util@^3.0.8:
     through2 "^2.0.0"
     vinyl "^0.5.0"
 
-gulp@^3.9.1:
+gulp@3.9.1, gulp@^3.9.1:
   version "3.9.1"
   resolved "https://registry.yarnpkg.com/gulp/-/gulp-3.9.1.tgz#571ce45928dd40af6514fc4011866016c13845b4"
   dependencies:
@@ -4011,17 +4011,17 @@ https-browserify@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
 
-hugo-bin@^0.18.0:
-  version "0.18.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.18.1.tgz#6691d42773f977bb52aa905f9e0c44089aa0dd62"
+hugo-bin@0.27.1:
+  version "0.27.1"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.27.1.tgz#4d7a37ce53c1d2f810bb3bdff151091ebb8b6d36"
   dependencies:
     bin-wrapper "3.0.2"
     del-cli "1.1.0"
     logalot "2.1.0"
 
-hugo-bin@^0.27.0:
-  version "0.27.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.27.1.tgz#4d7a37ce53c1d2f810bb3bdff151091ebb8b6d36"
+hugo-bin@^0.18.0:
+  version "0.18.1"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.18.1.tgz#6691d42773f977bb52aa905f9e0c44089aa0dd62"
   dependencies:
     bin-wrapper "3.0.2"
     del-cli "1.1.0"
@@ -6638,7 +6638,7 @@ postcss-load-plugins@^2.3.0:
     cosmiconfig "^2.1.1"
     object-assign "^4.1.0"
 
-postcss-markdown@^0.24.0:
+postcss-markdown@0.24.0:
   version "0.24.0"
   resolved "https://registry.yarnpkg.com/postcss-markdown/-/postcss-markdown-0.24.0.tgz#4587cb043dd95fd78206b7c20bc48ab7ff492cf4"
   dependencies:
@@ -6980,7 +6980,7 @@ postcss-svgo@^2.1.1:
     postcss-value-parser "^3.2.3"
     svgo "^0.7.0"
 
-postcss-syntax@^0.24.0:
+postcss-syntax@0.24.0:
   version "0.24.0"
   resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.24.0.tgz#e5e8055763b01baa344b1e39fef4cce3617f18da"
 
